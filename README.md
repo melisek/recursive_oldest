@@ -47,3 +47,4 @@ $path = '.\css';
 $extension = 'php';
 
 Kimenet: Nem található php kiterjesztésű fájl a könyvtárban.
+------------------------
